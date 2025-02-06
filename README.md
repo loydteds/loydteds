@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**loydteds/loydteds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm **Carrie** ([@loydteds](https://github.com/loydteds)) - a passionate **Data Analyst** with a love for solving problems and building solutions through code. Here you’ll find a collection of my projects, ranging from data analysis and machine learning to web development.
 
-Here are some ideas to get you started:
+🚀 **What I’m working on:**
+- Building and improving **e-commerce systems**.
+- Exploring **data science** techniques and **AI models**.
+- Contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Technologies I love:**
+- Python, R, SQL
+- Data Science & Machine Learning
+- GitHub Actions, Docker, and CI/CD pipelines
+
+Feel free to explore my repositories, leave feedback, or connect with me! Let’s collaborate and learn together. 😄
+
+📫 **How to reach me:**
+- [LinkedIn](your-linkedin-url)
+- [Twitter](your-twitter-url)
+- [Email](your-email-url)
+
+Happy coding! 🚀
+
