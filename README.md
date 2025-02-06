@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! 👋 I'm **Loyd** - a passionate **Data Analyst** with a love for solving problems and building solutions through code. Here you’ll find a collection of my projects, ranging from data analysis and machine learning to web development.
+Hi there! 👋 I'm **Loyd** - a passionate **Data Analyst** with a love for solving problems and building solutions through code. Here you’ll find a collection of my projects, ranging from data analysis and machine learning.
 
 🚀 **What I’m working on:**
 - Building and improving **e-commerce systems**.
