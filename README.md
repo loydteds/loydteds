@@ -4,7 +4,7 @@ Hi there! 👋 I'm **Loyd** - a passionate **Data Analyst** with a love for solv
 
 🚀 **What I’m working on:**
 - Building and improving **e-commerce systems**.
-- Exploring **data science** techniques and **AI models**.
+- Exploring **data science** techniques and applications.
 - Contributing to open-source projects.
 
 🔧 **Technologies I love:**
