@@ -12,12 +12,9 @@ Hi there! 👋 I'm **Loyd** - a passionate **Data Analyst** with a love for solv
 - Data Science & Machine Learning
 - GitHub Actions, Docker, and CI/CD pipelines
 
-Feel free to explore my repositories, leave feedback, or connect with me! Let’s collaborate and learn together. 😄
+Feel free to explore my repositories below, leave feedback, or connect with me! Let’s collaborate and learn together. 😄
 
-📫 **How to reach me:**
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Email](your-email-url)
+[e-commerce](https://github.com/data-portfolio-projects2/e-commerce-v.2/tree/main)
 
-Happy coding! 🚀
+
 
