@@ -16,5 +16,9 @@ Feel free to explore my repositories below, leave feedback, or connect with me! 
 
 [e-commerce](https://github.com/data-portfolio-projects2/e-commerce-v.2/tree/main)
 
+[etl-pipeline](https://github.com/loydteds/etl-pipeline)
+
+
+
 
 
