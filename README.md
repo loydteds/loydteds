@@ -1,24 +1,42 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! 👋 I'm **Loyd** - a passionate **Data Analyst** with a love for solving problems and building solutions through code. Here you’ll find a collection of my projects, ranging from data analysis and machine learning.
+Hey there! I'm **Loyd**, a passionate **Data Analyst** who thrives on transforming raw data into meaningful insights. I specialize in solving complex problems and building powerful data-driven solutions through code. Explore my collection of projects ranging from **data analysis** and **machine learning** to system optimizations.
 
-🚀 **What I’m working on:**
-- Building and improving **e-commerce systems**.
-- Exploring **data science** techniques and applications.
-- Contributing to open-source projects.
+---
 
-🔧 **Technologies I love:**
-- Python, R, SQL
-- Data Science & Machine Learning
-- GitHub Actions, Docker, and CI/CD pipelines
+### 🚀 **Currently Working On:**
+- Building and refining **e-commerce systems** for enhanced user experience.
+- Diving deep into **data science** techniques and their real-world applications.
+- Contributing to impactful **open-source projects** to learn and collaborate.
 
-Feel free to explore my repositories below, leave feedback, or connect with me! Let’s collaborate and learn together. 😄
+---
 
-[e-commerce](https://github.com/data-portfolio-projects2/e-commerce-v.2/tree/main)
+### 🔧 **Technologies I Love:**
+- **Languages**: Python, R, SQL
+- **Data Science & Machine Learning**: From predictive models to advanced algorithms.
+- **DevOps Tools**: GitHub Actions, Docker, CI/CD pipelines for seamless development.
 
-[etl-pipeline](https://github.com/loydteds/etl-pipeline)
+---
 
+### 📊 **Machine Learning & Statistical Techniques I Use:**
+- **Feature Engineering**: Crafting meaningful features to boost model performance.
+- **Outlier Analysis**: Identifying and handling data anomalies to ensure model accuracy.
+- **Clustering**: 
+  - K-means
+  - Hierarchical Clustering (Euclidean, Manhattan, Cosine)
+- **Classification**: 
+  - KNN (K-Nearest Neighbors)
+- **Statistical Testing**:
+  - Kruskal-Wallis Test (Data Association Test)
+  - ANOVA (Analysis of Variance)
+  - Chi-Squared Test (Independence, Goodness-of-fit)
+- **Time Series Forecasting**: 
+  - ARIMA (AutoRegressive Integrated Moving Average)
+  - Seasonal Decomposition
 
+---
 
+Feel free to explore my repositories below, leave feedback, or connect with me! Let’s collaborate, learn, and innovate together. 😄
 
-
+- [E-commerce System](https://github.com/data-portfolio-projects2/e-commerce-v.2/tree/main)
+- [ETL Pipeline Project](https://github.com/loydteds/etl-pipeline)
