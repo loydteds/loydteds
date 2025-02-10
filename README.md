@@ -40,4 +40,5 @@ Feel free to explore my repositories below, leave feedback, or connect with me! 
 
 - [E-commerce System](https://github.com/data-portfolio-projects2/e-commerce-v.2/tree/main)
 - [ETL Pipeline Project](https://github.com/loydteds/etl-pipeline)
+- [Sales Analysis](https://github.com/loydteds/sales-analysis)
 - [Reporting & Analysis](https://github.com/data-portfolio-projects2/e-commerce/tree/main/1.%20customer%20analysis/4.%20final%20report)
