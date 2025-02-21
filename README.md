@@ -18,9 +18,6 @@ Hey there! I'm **Loyd**, a passionate **Data Analyst** who thrives on transformi
 
 ---
 
-## 📊 **Skills & Techniques in Action**  
-
-
 ## 📂 **My Featured Projects:**  
 📌 [E-commerce System](https://github.com/data-portfolio-projects2/e-commerce-v.2/tree/main)  
 📌 [ETL Pipeline Project](https://github.com/data-portfolio-projects2/e-commerce-v.2/tree/main/b.%20etl-pipeline)  
