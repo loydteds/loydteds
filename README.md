@@ -53,10 +53,4 @@ Identifying and handling data anomalies to ensure model accuracy.
 
 ---
 
-## 🎯 **GitHub Stats & Analytics**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loydteds&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loydteds&layout=compact&theme=radical)  
-
----
-
 Let's **collaborate, learn, and innovate together!** 😄  
