@@ -59,9 +59,4 @@ Identifying and handling data anomalies to ensure model accuracy.
 
 ---
 
-## ✨ **Portfolio Animation**  
-<img src="your_animation.svg" alt="Portfolio Animation">
-
----
-
 Let's **collaborate, learn, and innovate together!** 😄  
