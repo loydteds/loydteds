@@ -20,7 +20,7 @@ Hey there! I'm **Loyd**, a passionate **Data Analyst** who thrives on transformi
 
 ## 📊 **Skills & Techniques in Action**  
 ![Animated Skills](https://raw.githubusercontent.com/your-username/your-repo/main/assets/animation.gif)
-
+[EZGIF](https://ezgif.com/svg-to-gif) or [CloudConvert](https://www.cloudconvert.com/svg-to-gif).  
 ---
 
 ## 📂 **My Featured Projects:**  
@@ -31,12 +31,5 @@ Hey there! I'm **Loyd**, a passionate **Data Analyst** who thrives on transformi
 📌 [Exploratory Data Analysis](https://github.com/data-portfolio-projects2/e-commerce-v.2/tree/main/a.%20exploratory%20data%20analysis)  
 
 ---
-
-### **How to Add the Animation to Your GitHub Profile**  
-1. **Convert SVG to GIF**  
-   - Use [EZGIF](https://ezgif.com/svg-to-gif) or [CloudConvert](https://www.cloudconvert.com/svg-to-gif).  
-2. **Save the GIF in your repo** (`assets/animation.gif`).  
-3. **Update the Image Path** in the `README.md` file.  
-4. **Push changes to GitHub** 🚀  
 
 Let's **collaborate, learn, and innovate together!** 😄  
