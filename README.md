@@ -19,9 +19,7 @@ Hey there! I'm **Loyd**, a passionate **Data Analyst** who thrives on transformi
 ---
 
 ## 📊 **Skills & Techniques in Action**  
-![Animated Skills](https://raw.githubusercontent.com/your-username/your-repo/main/assets/animation.gif)
-[EZGIF](https://ezgif.com/svg-to-gif) or [CloudConvert](https://www.cloudconvert.com/svg-to-gif).  
----
+
 
 ## 📂 **My Featured Projects:**  
 📌 [E-commerce System](https://github.com/data-portfolio-projects2/e-commerce-v.2/tree/main)  
