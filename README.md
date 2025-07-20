@@ -20,7 +20,7 @@ Hey there! I'm **Loyd**, a passionate **Data Analyst** who thrives on transformi
 
 ## 📂 **My Featured Projects:**  
 📌 [E-commerce System](https://github.com/data-portfolio-projects2/e-commerce-v.2/tree/main)  
-📌 [ETL Pipeline Project](https://github.com/data-portfolio-projects2/e-commerce-v.2/tree/main/b.%20etl-pipeline)  
+📌 [ETL Pipeline Project](https://github.com/data-portfolio-projects2/ETL-Pipeline-Project/tree/main)  
 📌 [Sales Analysis](https://github.com/loydteds/sales-analysis)  
 📌 [Customer Analysis](https://github.com/data-portfolio-projects2/e-commerce/tree/main/1.%20customer%20analysis)  
 📌 [Exploratory Data Analysis](https://github.com/data-portfolio-projects2/e-commerce-v.2/tree/main/a.%20exploratory%20data%20analysis)  
